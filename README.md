@@ -1,6 +1,6 @@
 # smallscaleR
 
-We present Matlab code to reproduce all analyses and figures from the paper "Host behaviour driven by awareness of infection risk amplifies the chance of superspreading events" by Kris V Parag and Robin N Thompson. 
+We present Matlab code to reproduce all analyses and figures from the paper "Host behaviour driven by awareness of infection risk amplifies the chance of superspreading events" by Kris V Parag and Robin N Thompson. Preprint available at: https://www.medrxiv.org/content/10.1101/2023.08.25.23294423v1
 
 System Requirements
 
