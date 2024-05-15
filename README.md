@@ -10,6 +10,6 @@ Slight dependence on the linespecer and boundedline packages (licenses included 
 Instructions and installation
 
 Should work with any standard Matlab installation and generate figures/results.
-Run FigX.m where X is the figure in the manuscript to be reproduced.
+Run FigXrev.m where X is the figure in the manuscript to be reproduced.
 Code is self contained so no external installations required.
 Run times of all scripts are of the order of minutes or faster.
